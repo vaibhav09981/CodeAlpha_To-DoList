@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ToDoList CodeAlpha
 
 This is a simple ToDo List web application built with Node.js, Express, and EJS templating. It allows users to create and manage tasks in different lists dynamically.
@@ -42,3 +43,6 @@ The app will be running on [http://localhost:3000](http://localhost:3000).
 ## License
 
 This project is open source and free to use.
+=======
+# CodeAlpha_To-DoList
+>>>>>>> 51472347350d730ef33f76082787982cf0ed95a1
